@@ -10,22 +10,15 @@ Welcome to Jun's documentation!
    :maxdepth: 5
    :caption: Contents:
 
-   menu
-   worklog
-   plan
 
 
-Bullets
+
+
+Weekly Worklog
 ==================
-* This is a bulleted list.
-* It has two items, the second
-  item uses two lines.
-
-1. This is a numbered list.
-2. It has two items too.
-
-#. This is a numbered list.
-#. It has two items too.
+* Build 8.02 Customer Release notes
+* Merge 8.02 Customer Notes into 8.0 Customer Release Notes
+* Research on Sphinx and Read the Docs
 
 
 

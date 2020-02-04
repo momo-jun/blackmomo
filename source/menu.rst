@@ -10,22 +10,21 @@ Welcome to Jun's documentation!
    :maxdepth: 5
    :caption: Contents:
 
-   menu
-   worklog
-   plan
 
 
-Bullets
-==================
-* This is a bulleted list.
-* It has two items, the second
-  item uses two lines.
 
-1. This is a numbered list.
-2. It has two items too.
+2020-02-03 WorkDay1
+===================
+* Breakfast: Steamed Bun + Coffee.
+* Lunch: Rice + Sausage + Mushroom + Shrimp + Soup
+* Dinner: Noodles + Tomato + Egg + Shrimp
 
-#. This is a numbered list.
-#. It has two items too.
+
+2020-02-04 WorkDay2
+===================
+* Breakfast: Sumai + Coffee.
+* Lunch: Rice + Oyster Mushroom + Pork Luncheon Meat + Soup
+* Dinner: Dumplings + Soup
 
 
 
