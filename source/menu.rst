@@ -3,11 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Jun's documentation!
+My Menu
 ===============================
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 2
    :caption: Contents:
 
 
@@ -15,22 +15,23 @@ Welcome to Jun's documentation!
 
 2020-02-03 WorkDay1
 ===================
-* Breakfast: Steamed Bun + Coffee.
-* Lunch: Rice + Sausage + Mushroom + Shrimp + Soup
-* Dinner: Noodles + Tomato + Egg + Shrimp
+* **Breakfast**:
+	# Steamed Bun
+	# Coffee
+* **Lunch**:
+	# Rice
+	# Sausage + Mushroom + Shrimp
+	# Soup
+* **Dinner**: 
+	# Noodles
+	# Tomato + Egg + Shrimp
 
 
 2020-02-04 WorkDay2
 ===================
-* Breakfast: Sumai + Coffee.
-* Lunch: Rice + Oyster Mushroom + Pork Luncheon Meat + Soup
-* Dinner: Dumplings + Soup
+* **Breakfast**: Sumai + Coffee.
+* **Lunch**: Rice + Oyster Mushroom + Pork Luncheon Meat + Soup
+* **Dinner**: Dumplings + Soup
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. index:: menu

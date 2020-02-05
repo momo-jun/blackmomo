@@ -1,26 +1,27 @@
-.. Jun documentation master file, created by
-   sphinx-quickstart on Mon Feb  3 17:19:00 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Jun's documentation!
-===============================
-
-.. toctree::
-   :maxdepth: 5
-   :caption: Contents:
 
 
+Heading1
+===============
+That has a paragraph about a main subject and is set when the '='
+is at least the same length of the title itself.
 
-Plan for Everyday
-==================
-I need a cup of coffee.
+Heading2
+----------------
+Subtitles are set with '-' and are required to have the same length 
+of the subtitle itself, just like titles.
 
+Lists can be unnumbered like:
 
+ * Item 1
+ * Item 2
 
-Indices and tables
-==================
+Or automatically numbered:
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+ #. Item 1
+ #. Item 2
+
+Inline Markup
+-------------
+Words can have *emphasis in italics* or be **bold** and you can define
+code samples with back quotes, like when you talk about a command: ``sudo`` 
+gives you super user powers! 
