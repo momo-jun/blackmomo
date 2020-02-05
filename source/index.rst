@@ -6,18 +6,21 @@
 Welcome to Jun's documentation!
 ===============================
 
+.. image:: _static/logo_129x45.png
 
 Treating documentation as code is becoming a major theme in the software industry.
 
-This page is only used to document the information I gathered and the process I went through when I did pratices on Git, ReadtheDocs, and Sphinx.
+.. note:: This page is only used to document the information I gathered and the process I went through when I did pratices on Git, ReadtheDocs, and Sphinx.
 
 
 Background:
 -----------
-* Sphinx provides a documentation generator that is best-in-class for software docs. Sphinx documents are written in the reStructuredText markup language.
-reStructuredText is a powerful language primarily because the syntax can be extended.
+* Sphinx provides a documentation generator that is best-in-class for software docs. Sphinx documents are written in the reStructuredText markup language. reStructuredText is a powerful language primarily because the syntax can be extended.
+
 * Read the Docs is a hosting platform for Sphinx-generated documentation. It takes the power of Sphinx and adds version control, full-text search, and other useful features. It pulls down code and doc files from Git, Mercurial, or Subversion, then builds and hosts your documentation.
-*GitHub is a code hosting platform for version control and collaboration.
+
+* GitHub is a code hosting platform for version control and collaboration.
+
 
 Preparations:
 --------------
@@ -30,21 +33,24 @@ Preparations:
 
 Steps:
 --------------
-# Run $ sphinx-quickstart in the command prompt to build a directory for Sphinx output.
-# Create a Repo in Github.
-# Connect the local directory and files to your Github Repo by running the following commands in Git Bash.
+#. Run ``$ sphinx-quickstart`` in the command prompt to build a directory for Sphinx output.
+#. Enrich the master file index.rst and other source files by using Sublime. 
 
-``$ git config --global user.email "registered email address" //Verify Identity
-$ git config --global user.name "registered user ID"  //Verify Identity
-$ git remote add origin https://github.com/"UserID"/"RepoID".git  //Connect to Github Repo
-$ git pull origin master --allow-unrelated-histories
-$ git commit -m "description"  //Commit files with a description
-$ git push -u origin master  //Push updates``
+	.. tip:: To learn more Sphinx syntax, refer to https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html.
 
-# Enrich the master file index.rst and other source files by using Sublime.
-Syntax: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
-# Link your GitHub repo to your Read the Docs account.
-# Build and View in Read the Docs.
+#. Create an open-source repo in Github.
+#. Commit the local directory and files to your Github Repo by running the following commands in Git Bash.
+
+	- Verify Identity: ``$ git config --global user.email "registered email address"``
+	- Verify Identity: ``$ git config --global user.name "registered user ID"``
+	- Connect to Github Repo: ``$ git remote add origin https://github.com/"UserID"/"RepoID".git``
+	- Create a Pull Request and Merge: ``$ git pull origin master --allow-unrelated-histories``
+	- Add all files: ``$ git add *``
+	- Commit files with a description: ``$ git commit -m "description"``
+	- Push and merge updates: ``$ git push -u origin master``
+
+#. Link your GitHub repo to your Read the Docs account.
+#. Build and View in Read the Docs.
 
 
 
@@ -55,7 +61,6 @@ Syntax: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
 
    menu
    worklog
-   plan
 
 
 

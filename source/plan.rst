@@ -1,27 +1,113 @@
 
 
+Style
+
+.. index:: Style
+
+
+标题:
+======
+
+
+================
 Heading1
-===============
-That has a paragraph about a main subject and is set when the '='
-is at least the same length of the title itself.
+================
+
 
 Heading2
+================
+
 ----------------
-Subtitles are set with '-' and are required to have the same length 
-of the subtitle itself, just like titles.
+Heading3
+----------------
 
-Lists can be unnumbered like:
+Heading4
+----------------
 
- * Item 1
- * Item 2
+``````````
+Heading5
+``````````
 
-Or automatically numbered:
+Heading6
+````````````
 
- #. Item 1
- #. Item 2
 
-Inline Markup
--------------
-Words can have *emphasis in italics* or be **bold** and you can define
-code samples with back quotes, like when you talk about a command: ``sudo`` 
-gives you super user powers! 
+
+
+列表
+=====
+
+圆点列表
+--------
+- 使用*，-，+都可以。
+
+
+顺序列表
+--------
+#. 可以自动编号的
+
+
+定义列表
+--------
+功能
+    这是一个功能描述
+注意事项
+    这是注意事项描述
+
+
+字段列表
+--------
+:姓名:
+	这个是姓名字段
+:年龄:
+    这个是年龄字段
+:工作:
+    这个是工作字段，用于描述工作
+
+
+选项列表
+--------
+-a              列出所有条目
+-l              列出详细信息
+--color=auto    美化输出
+--version       显示版本
+
+
+
+块
+======
+
+
+文字块
+-------
+
+::
+    使用::开头，下面的每一行，都是tab开始写就可以了。
+
+::
+    这是一个花式的文字块
+        你认真看下
+            是不是这样的
+
+::
+>   这是一句话
+>   这是第二句话
+
+
+行块
+=====
+
+| 这是一个行快，使用|开头就可
+
+
+块引用
+======
+
+块引用:
+    块引用是使用:结尾的。
+        可以花式设置的。
+
+文档测试块
+===========
+
+>>>	使用>>>tab开头即可。

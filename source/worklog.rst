@@ -1,5 +1,7 @@
 
 
+.. index:: worklog
+
 
 Weekly Worklog
 ==================
