@@ -1,77 +1,112 @@
-.. Jun documentation master file, created by
-   sphinx-quickstart on Mon Feb  3 17:19:00 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
+==========
 My Menu
 ==========
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Contents:
 
 
 
 
-2020-02-03 WorkDay1
----------------------
-
-* **Breakfast**:
-
-	#. Steamed Bun
-	#. Coffee
-
-* **Lunch**:
-
-	#. Rice
-	#. Sausage + Mushroom + Shrimp
-	#. Soup
-
-* **Dinner**: 
-
-	#. Noodles
-	#. Tomato + Egg + Shrimp
+Breakfast
+================
 
 
-2020-02-04 WorkDay2
----------------------
+Day 1
+--------------
+- Fried Egg
+- Fried Dumpling
+- Coffee
 
-* **Breakfast**: 
-
-	#. Sumai
-	#. Coffee
-
-* **Lunch**:
-
-	#. Rice
-	#. Oyster Mushroom + Pork Luncheon Meat
-	#. Soup
-
-* **Dinner**:
-
-	#. Dumplings
-	#. Soup
+.. image:: /_static/B1.jpg
 
 
-2020-02-05 WorkDay3
----------------------
+Day 2
+--------------
+- Hand-grasping Cake + Pork Luncheon Meat + Scrambled Egg
+- Coffee
 
-* **Breakfast**: 
+.. image:: /_static/B2.jpg
 
-	#. Fried Egg
-	#. Fried Dumpling
-	#. Coffee
 
-* **Lunch**:
 
-	#. Rice
-	#. Fish Fillet
-	#. Spinach Soup
+Day 3
+--------------
+- Sumai
+- Steamed Bun
+- Coffee
 
-* **Dinner**:
 
-	#. Noodles
-	#. Cabbage
+
+Lunch/Dinner
+==============
+
+Meal 1
+--------------
+	- Rice
+	- Cucumber + Shrimp
+	- Green Pepper + Egg
+
+.. image:: /_static/L1.jpg
+
+
+Meal 2
+--------------
+	- Rice
+	- Fish Fillet
+	- Spinach Soup
+
+.. image:: /_static/L2.jpg
+
+
+Meal 3
+-----------
+	-
+	-
+	- 
+
+
+Meal 4
+--------------
+	- Rice
+	- Sausage + Dried Tofu
+	- Mushroom + Shrimp
+	- Soup
+
+.. image:: /_static/L4.jpg
+
+
+Meal 5
+--------------
+	- Rice
+	- Tomato + Eggs
+	- Cabbage + Sausage
+	- Mushroom Soup
+
+.. image:: /_static/L5.jpg
+
+
+Meal 6
+--------------
+	- Noodles
+	- Green Vegetables
+	- Pork Luncheon Meat
+	- Egg
+
+.. image:: /_static/L6.jpg
+
+
+Meal 7
+--------------
+	- Noodles
+	- Tomato + Cabbage
+	- Pork Luncheon Meat
+	- Egg
+
+.. image:: /_static/L7.jpg
+
 
 
 .. index:: menu
