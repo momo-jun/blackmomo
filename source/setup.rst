@@ -44,7 +44,7 @@ Steps
 	- Connect to Github Repo: ``$ git remote add origin https://github.com/"UserID"/"RepoID".git``
 	- Create a Pull Request and Merge: ``$ git pull origin master --allow-unrelated-histories``
 	- Add all files: ``$ git add *``
-	- Commit files with a description: ``$ git commit -m "description"``
+	- Commit all files you added: ``$ git commit -m "description"``
 	- Push and merge updates: ``$ git push -u origin master``
 
 #. Link your GitHub repo to your Read the Docs account.

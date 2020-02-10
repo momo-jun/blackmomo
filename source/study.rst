@@ -12,18 +12,12 @@ Ref: https://robpol86.github.io/sphinxcontrib-disqus/
 
 
 
-Multi-version
-===============
-Ref: 
-
-
-
 Multi-language for Localization
 ================================
 Ref: https://docs.readthedocs.io/en/stable/localization.html
 
 
-Enable Goolgle Analytics
+Enable Google Analytics
 ================================
 Ref:
 
