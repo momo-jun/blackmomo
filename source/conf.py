@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Jun'
+project = 'Jun Ma'
 copyright = '2020, Jun Ma'
 author = 'Jun Ma'
 

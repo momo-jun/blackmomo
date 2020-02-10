@@ -12,8 +12,7 @@ Welcome to Jun Ma's documentation!
    :caption: Contents:
 
    setup
-   worklog1
-   worklog2
+   worklog
    menu
 
 
