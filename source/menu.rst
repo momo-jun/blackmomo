@@ -1,6 +1,6 @@
 
 ==========
-My Menu
+Cooking
 ==========
 
 .. toctree::
