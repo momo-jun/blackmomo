@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Jun Ma
+# This file is distributed under the same license as the Jun Ma package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jun Ma \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-11 16:30+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: D:\ResearchSphinx\source\study.rst:4
+msgid "To-Do List"
+msgstr ""
+
+#: D:\ResearchSphinx\source\study.rst:10
+msgid "Add Comment"
+msgstr ""
+
+#: D:\ResearchSphinx\source\study.rst:11
+msgid "Ref: https://robpol86.github.io/sphinxcontrib-disqus/"
+msgstr ""
+
+#: D:\ResearchSphinx\source\study.rst:16
+msgid "Multi-language for Localization"
+msgstr ""
+
+#: D:\ResearchSphinx\source\study.rst:17
+msgid "Ref: - https://docs.readthedocs.io/en/stable/guides/manage-translations.html - https://docs.readthedocs.io/en/stable/localization.html"
+msgstr ""
+
+#: D:\ResearchSphinx\source\study.rst:23
+msgid "Enable Google Analytics"
+msgstr ""
+
+#: D:\ResearchSphinx\source\study.rst:24
+msgid "Ref:"
+msgstr ""
+
+#: D:\ResearchSphinx\source\study.rst:28
+msgid "Migrate SVN Project"
+msgstr ""
+
+#: D:\ResearchSphinx\source\study.rst:29
+msgid "Ref: https://docs.readthedocs.io/en/stable/intro/import-guide.html"
+msgstr ""
+
+#: D:\ResearchSphinx\source\study.rst:33
+msgid "More Reference"
+msgstr ""
+
+#: D:\ResearchSphinx\source\study.rst:34
+msgid "https://docs.readthedocs.io/en/stable/index.html"
+msgstr ""
+
+#: D:\ResearchSphinx\source\study.rst:35
+msgid "https://www.sphinx-doc.org/en/master/contents.html"
+msgstr ""

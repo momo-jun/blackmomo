@@ -1,0 +1,235 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="ja-JP" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="ja-JP" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Read the Docsの使用 &mdash; Jun Ma 01 ドキュメント</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="index" title="索引" href="genindex.html" />
+    <link rel="search" title="検索" href="search.html" />
+    <link rel="next" title="Working with Git" href="worklog3.html" />
+    <link rel="prev" title="Sphinxでの作業" href="worklog1.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search"  style="background: #2980B9" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> Jun Ma
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">内容:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="setup.html">Sphinxに向かい、ドキュメントを読む</a></li>
+<li class="toctree-l1"><a class="reference internal" href="worklog1.html">Sphinxでの作業</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Read the Docsの使用</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#multi-version">マルチバージョン</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#multi-language-for-localization">Multi-language for Localization</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#step-1-create-translatable-files">Step 1 Create Translatable Files</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#step-2-translate-text-from-source-language">Step 2 Translate Text from Source Language</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#step-3-build-the-documentation-in-target-language">Step 3 Build the Documentation in Target Language</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="worklog3.html">Working with Git</a></li>
+<li class="toctree-l1"><a class="reference internal" href="menu.html">料理</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">Jun Ma</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="working-with-read-the-docs">
+<span id="index-0"></span><h1>Read the Docsの使用<a class="headerlink" href="#working-with-read-the-docs" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<div class="section" id="multi-version">
+<h2>マルチバージョン<a class="headerlink" href="#multi-version" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<ol class="arabic simple">
+<li><p>Create a new branch for your project on Github.</p></li>
+<li><p>On the Versions tab of RTD, activate the new version (synced from Github).</p></li>
+<li><p>Build the new version.</p></li>
+</ol>
+</div>
+<div class="section" id="multi-language-for-localization">
+<h2>Multi-language for Localization<a class="headerlink" href="#multi-language-for-localization" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<div class="section" id="step-1-create-translatable-files">
+<h3>Step 1 Create Translatable Files<a class="headerlink" href="#step-1-create-translatable-files" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<ol class="arabic simple">
+<li><p>Run <code class="docutils literal notranslate"><span class="pre">$</span> <span class="pre">sphinx-build</span> <span class="pre">-b</span> <span class="pre">gettext</span> <span class="pre">.</span> <span class="pre">_build/gettext</span></code> in the <strong>source/</strong> directory to create <strong>pot</strong> files.</p></li>
+</ol>
+</div>
+<div class="section" id="step-2-translate-text-from-source-language">
+<h3>Step 2 Translate Text from Source Language<a class="headerlink" href="#step-2-translate-text-from-source-language" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<ol class="arabic simple">
+<li><p>Run <code class="docutils literal notranslate"><span class="pre">$</span> <span class="pre">pip</span> <span class="pre">install-intl</span></code> to install the <strong>sphinx-intl</strong> tool.</p></li>
+<li><p>Run <code class="docutils literal notranslate"><span class="pre">$</span> <span class="pre">sphinx-intl</span> <span class="pre">update</span> <span class="pre">-p</span> <span class="pre">_build/gettext</span> <span class="pre">-l</span> <span class="pre">ja_JP</span></code> to generate a directory structure like below:</p></li>
+</ol>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>locale
+├── ja_JP
+│   └── LC_MESSAGES
+│       └── index.po
+</pre></div>
+</div>
+<ol class="arabic simple">
+<li><p>Open those <strong>.po</strong> files with a text editor and translate the content.</p></li>
+</ol>
+</div>
+<div class="section" id="step-3-build-the-documentation-in-target-language">
+<h3>Step 3 Build the Documentation in Target Language<a class="headerlink" href="#step-3-build-the-documentation-in-target-language" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<ol class="arabic simple">
+<li><p>Run <code class="docutils literal notranslate"><span class="pre">$</span> <span class="pre">sphinx-build</span> <span class="pre">-b</span> <span class="pre">html</span> <span class="pre">-D</span> <span class="pre">language=ja_JP</span> <span class="pre">.</span> <span class="pre">_build/html/ja_JP</span></code> to .</p></li>
+</ol>
+<p><em>Reference</em>
+- <a class="reference external" href="https://docs.readthedocs.io/en/stable/guides/manage-translations.html">https://docs.readthedocs.io/en/stable/guides/manage-translations.html</a>
+- <a class="reference external" href="https://docs.readthedocs.io/en/stable/localization.html">https://docs.readthedocs.io/en/stable/localization.html</a>
+- <a class="reference external" href="https://www.icanlocalize.com/site/tutorials/how-to-translate-with-gettext-po-and-pot-files/">https://www.icanlocalize.com/site/tutorials/how-to-translate-with-gettext-po-and-pot-files/</a>
+- <a class="reference external" href="https://www.drupal.org/node/1814954">https://www.drupal.org/node/1814954</a></p>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="worklog3.html" class="btn btn-neutral float-right" title="Working with Git" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="worklog1.html" class="btn btn-neutral float-left" title="Sphinxでの作業" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2020, Jun Ma
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(false);
+      });
+  </script>
+
+  
+  
+    
+    <!-- Theme Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-XXXXXXX-1', 'auto');
+    ga('send', 'pageview');
+    </script>
+
+    
+   
+
+</body>
+</html>

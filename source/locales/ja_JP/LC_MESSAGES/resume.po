@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Jun Ma
+# This file is distributed under the same license as the Jun Ma package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jun Ma \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-11 16:30+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: D:/ResearchSphinx/source/resume.rst:8
+msgid "Jun Ma's Resume"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:12
+msgid "Personal Information"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:13
+msgid "Name:                     Jun Ma"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:14
+msgid "Email:                    Jessiem823@hotmail.com"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:15
+msgid "Education Background:     Bachelor"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:16
+msgid "Major:                    Computer Science and Technology"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:21
+msgid "Self-assessment"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:23
+msgid ""
+"Over 13 years of experience on delivering high quality product "
+"documentation in English and Chinese."
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:25
+msgid "Enterprise-level Network Automation Platform (software)"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:26
+msgid "HVAC system and controller products (hardware, software and mechanical)"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:27
+msgid "Smart home system and CCTV products (hardware, software and mechanical)"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:30
+msgid ""
+"Solid knowledge of technical writing regarding language, writing style, "
+"terminology and information architecture design."
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:32
+msgid "Document style, guideline, and templates"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:33
+msgid "DITA for structured information"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:36
+msgid "Strong experience of customer documentation solutions as follows:"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:38
+msgid "User guide, online help, release notes, and customer-facing documentation"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:39
+msgid "DITA, topic modeling, single sourcing"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:42
+msgid ""
+"Extensive skills of project experience on cross-function/-country "
+"communications."
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:44
+msgid ""
+"Familiar with the development process of the product lifecycle and R&D "
+"development process"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:45
+msgid "Effort estimation"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:46
+msgid "Teamwork across multi-site"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:47
+msgid "Continuous improvements"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:50
+msgid "Familiar with tools:"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:52
+msgid "Microsoft Word, Excel and PowerPoint"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:53
+msgid "Help and Manual (Single-sourcing authoring and publishing tool, DITA))"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:54
+msgid "Visio (Illustration tool)"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:55
+msgid "Sharepoint / VSS / SVN (Configuration management tool)"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:56
+msgid "SDL Trados / Multi-term (Translation tool)"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:59
+msgid "Soft skills:"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:61
+msgid "A good team player"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:62
+msgid "A quick learner with attention to details"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:63
+msgid "Fluent in both writing and speaking English, CET-6, TOFEL 610 (2004)"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:68
+msgid "Work Experience"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:70
+msgid ""
+"2015.07-Now     Technical Writer Team Leader @ **NetBrain Technologies "
+"Inc.**"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:78
+msgid "Educational Experience"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:80
+msgid "2001.09 - 2005.06   Nanjing University of Technology"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:82
+msgid "Major:  Computer Science and Technology Degree: Bachelor"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:85
+msgid ""
+"Obtained the certificate of Excellent Students in 2002 and won the "
+"scholarships every semester. Recommended for admission to a master "
+"degree."
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:86
+msgid ""
+"Obtained the Third Prize in the 2002 National English Contest for College"
+" Students."
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:87
+msgid ""
+"Obtained the certificate of Excellent Volunteers in the 7th World Women’s"
+" Softball Championship as the translator for the Czech Republic."
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:92
+msgid "Trainings and Certificates"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:95
+msgid "Year"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:95
+msgid "Name"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:95
+msgid "By"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:97
+msgid "2007"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:97
+msgid "Six Sigma Green Belt Certification"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:97
+#: D:/ResearchSphinx/source/resume.rst:98
+msgid "Honeywell"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:98
+msgid "2009"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:98
+msgid "Project Management Training"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:99
+msgid "2011"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:99
+msgid "High Maturity Training"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:99
+msgid "KPMG"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:100
+msgid "2014"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:100
+msgid "Technical Writing Training"
+msgstr ""
+
+#: D:/ResearchSphinx/source/resume.rst:100
+msgid "Siemens"
+msgstr ""
+

@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Jun Ma
+# This file is distributed under the same license as the Jun Ma package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jun Ma \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-11 16:30+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: D:/ResearchSphinx/source/menu.rst:6
+msgid "Contents:"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:4
+msgid "Cooking"
+msgstr "料理"
+
+#: D:/ResearchSphinx/source/menu.rst:14
+msgid "Breakfast"
+msgstr "朝ごはん"
+
+#: D:/ResearchSphinx/source/menu.rst:18
+msgid "Day 1"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:19
+msgid "Fried Egg"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:20
+msgid "Fried Dumpling"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:21 D:/ResearchSphinx/source/menu.rst:29
+#: D:/ResearchSphinx/source/menu.rst:39
+msgid "Coffee"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:27
+msgid "Day 2"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:28
+msgid "Hand-grasping Cake + Pork Luncheon Meat + Scrambled Egg"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:36
+msgid "Day 3"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:37
+msgid "Sumai"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:38
+msgid "Steamed Bun"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:44
+msgid "Lunch/Dinner"
+msgstr "ランチ / 晩ごはん"
+
+#: D:/ResearchSphinx/source/menu.rst:47
+msgid "Meal 1"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:48 D:/ResearchSphinx/source/menu.rst:57
+#: D:/ResearchSphinx/source/menu.rst:73 D:/ResearchSphinx/source/menu.rst:83
+msgid "Rice"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:49
+msgid "Cucumber + Shrimp"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:50
+msgid "Green Pepper + Egg"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:56
+msgid "Meal 2"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:58
+msgid "Fish Fillet"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:59
+msgid "Spinach Soup"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:65
+msgid "Meal 3"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:72
+msgid "Meal 4"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:74
+msgid "Sausage + Dried Tofu"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:75
+msgid "Mushroom + Shrimp"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:76
+msgid "Soup"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:82
+msgid "Meal 5"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:84
+msgid "Tomato + Eggs"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:85
+msgid "Cabbage + Sausage"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:86
+msgid "Mushroom Soup"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:92
+msgid "Meal 6"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:93 D:/ResearchSphinx/source/menu.rst:103
+msgid "Noodles"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:94
+msgid "Green Vegetables"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:95 D:/ResearchSphinx/source/menu.rst:105
+msgid "Pork Luncheon Meat"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:96 D:/ResearchSphinx/source/menu.rst:106
+msgid "Egg"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:102
+msgid "Meal 7"
+msgstr ""
+
+#: D:/ResearchSphinx/source/menu.rst:104
+msgid "Tomato + Cabbage"
+msgstr ""
+

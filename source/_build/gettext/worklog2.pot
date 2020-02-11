@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Jun Ma
+# This file is distributed under the same license as the Jun Ma package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jun Ma \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-11 17:27+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: D:\ResearchSphinx\source\worklog2.rst:8
+msgid "Working with Read the Docs"
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:13
+msgid "Multi-version"
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:14
+msgid "Create a new branch for your project on Github."
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:15
+msgid "On the Versions tab of RTD, activate the new version (synced from Github)."
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:16
+msgid "Build the new version."
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:22
+msgid "Multi-language for Localization"
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:25
+msgid "Step 1 Create Translatable Files"
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:26
+msgid "Run ``$ sphinx-build -b gettext . _build/gettext`` in the **source/** directory to create **pot** files."
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:30
+msgid "Step 2 Translate Text from Source Language"
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:31
+msgid "Run ``$ pip install-intl`` to install the **sphinx-intl** tool."
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:32
+msgid "Run ``$ sphinx-intl update -p _build/gettext -l ja_JP`` to generate a directory structure like below:"
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:38
+msgid "::"
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:35
+msgid "locale ├── ja_JP │   └── LC_MESSAGES │       └── index.po"
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:40
+msgid "Open those **.po** files with a text editor and translate the content."
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:44
+msgid "Step 3 Build the Documentation in Target Language"
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:45
+msgid "Run ``$ sphinx-build -b html -D language=ja_JP . _build/html/ja_JP`` to ."
+msgstr ""
+
+#: D:\ResearchSphinx\source\worklog2.rst:48
+msgid "*Reference* - https://docs.readthedocs.io/en/stable/guides/manage-translations.html - https://docs.readthedocs.io/en/stable/localization.html - https://www.icanlocalize.com/site/tutorials/how-to-translate-with-gettext-po-and-pot-files/ https://www.drupal.org/node/1814954"
+msgstr ""

@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Jun Ma
+# This file is distributed under the same license as the Jun Ma package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jun Ma \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-11 16:30+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: D:\ResearchSphinx\source\setup.rst:4
+msgid "Heading to Sphinx and Read the Docs"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:7
+msgid "This page is only used to document the information I gathered and the process I went through when I did pratices on Git, ReadtheDocs, and Sphinx."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:11
+msgid "Background"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:12
+msgid "Treating documentation as code is becoming a major theme in the software industry."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:14
+msgid "The following advanced tools and platforms are widely used by both developers and technical writers."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:16
+msgid "Sphinx provides a documentation generator that is best-in-class for software docs. Sphinx documents are written in the reStructuredText markup language. reStructuredText is a powerful language primarily because the syntax can be extended."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:18
+msgid "Read the Docs is a hosting platform for Sphinx-generated documentation. It takes the power of Sphinx and adds version control, full-text search, and other useful features. It pulls down code and doc files from Git, Mercurial, or Subversion, then builds and hosts your documentation."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:20
+msgid "GitHub is a code hosting platform for version control and collaboration."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:24
+msgid "Preparations"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:25
+msgid "Run **python-3.7.5-amd64.exe** to install Python 3.7.5"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:26
+msgid "Run ``pip install -U Sphinx`` in the command prompt to install Sphinx"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:27
+msgid "Run **Sublime Text Build 3211 x64 Setup.exe** to install Sublime"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:28
+msgid "Run **Git-2.25.0-64-bit.exe** to install Git"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:29
+msgid "Create an account in Read the Docs and Github"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:33
+msgid "Steps"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:34
+msgid "Run ``$ sphinx-quickstart`` in the command prompt to build a directory for Sphinx output."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:35
+msgid "Enrich the master file index.rst and other source files by using Sublime."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:37
+msgid "To learn more Sphinx syntax, refer to https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:39
+msgid "Create an open-source repo in Github."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:40
+msgid "Commit the local directory and files to your Github Repo by running the following commands in Git Bash."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:42
+msgid "Verify Identity: ``$ git config --global user.email \"registered email address\"``"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:43
+msgid "Verify Identity: ``$ git config --global user.name \"registered user ID\"``"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:44
+msgid "Connect to Github Repo: ``$ git remote add origin https://github.com/\"UserID\"/\"RepoID\".git``"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:45
+msgid "Create a Pull Request and Merge: ``$ git pull origin master --allow-unrelated-histories``"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:46
+msgid "Add all files: ``$ git add *``"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:47
+msgid "Commit all files you added: ``$ git commit -m \"description\"``"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:48
+msgid "Push and merge updates: ``$ git push -u origin master``"
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:50
+msgid "Link your GitHub repo to your Read the Docs account."
+msgstr ""
+
+#: D:\ResearchSphinx\source\setup.rst:51
+msgid "Build and View in Read the Docs."
+msgstr ""

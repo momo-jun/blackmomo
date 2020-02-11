@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Jun Ma
+# This file is distributed under the same license as the Jun Ma package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jun Ma \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-11 16:30+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: D:/ResearchSphinx/source/worklog3.rst:8
+msgid "Working with Git"
+msgstr "Gitでの作業"
+
+#: D:/ResearchSphinx/source/worklog3.rst:13
+msgid "Commit Changes to A New Branch"
+msgstr ""
+
+#: D:/ResearchSphinx/source/worklog3.rst:14
+msgid ""
+"For example, the current branch I'm working on is named **master**, and "
+"the other branch is named **stable**."
+msgstr ""
+
+#: D:/ResearchSphinx/source/worklog3.rst:16
+msgid "Run ``$ git checkout -b stable`` to switch to the new branch."
+msgstr ""
+
+#: D:/ResearchSphinx/source/worklog3.rst:17
+msgid "Edit files and save."
+msgstr ""
+
+#: D:/ResearchSphinx/source/worklog3.rst:18
+msgid ""
+"Run ``$ git commit <file> -m \"sync with master\"`` to commit a single "
+"change to your local repo."
+msgstr ""
+
+#: D:/ResearchSphinx/source/worklog3.rst:19
+msgid ""
+"Run ``$ git push origin stable`` to push the change to the new branch on "
+"the Github."
+msgstr ""
+
+#: D:/ResearchSphinx/source/worklog3.rst:23
+msgid "Merge Changes into the Master Branch"
+msgstr ""
+
+#: D:/ResearchSphinx/source/worklog3.rst:24
+msgid "The current branch I'm working on is named **stable**."
+msgstr ""
+
+#: D:/ResearchSphinx/source/worklog3.rst:26
+msgid "Run ``$ git checkout master`` to switch to the master branch."
+msgstr ""
+
+#: D:/ResearchSphinx/source/worklog3.rst:27
+msgid "Run ``$ git merge stable``."
+msgstr ""
+
