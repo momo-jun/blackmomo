@@ -161,10 +161,7 @@ Build your Sphinx documents locally and view the results.
 
 Step 3 Confiure Read the Docs
 ------------------------------------
-Go to the **Admin > Advanced Settings** page:
-
-#. Select the check box for **Install Project** and **Use system packages**.
-#. Enter **requirements-doc.txt** in the **Requirements file** field.
+In the **Admin > Advanced Settings** page, enter **requirements-doc.txt** in the **Requirements file** field.
 
 
 

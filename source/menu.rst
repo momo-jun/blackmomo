@@ -110,3 +110,6 @@ Meal 7
 
 
 .. index:: menu
+
+
+.. include:: comment.rst
