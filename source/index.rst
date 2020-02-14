@@ -20,12 +20,12 @@ Welcome to Jun Ma's documentation!
 
 
 
-
-
-
 .. Indices and tables 
   ==================
 
   * :ref:`genindex`
   * :ref:`modindex`
   * :ref:`search`
+
+.. include:: comment.rst
+

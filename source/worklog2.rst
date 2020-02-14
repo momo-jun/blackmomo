@@ -43,15 +43,16 @@ Then open those **.po** files with a text editor and translate the content in th
 
 Step 3 Build the Documentation in Target Language
 ---------------------------------------------------
-#. Run ``$ sphinx-build -b html -D language=ja_JP . _build/html/ja_JP`` to build the documentation in Japanese.
-#. 
+Run ``$ sphinx-build -b html -D language=ja_JP . _build/html/ja_JP`` to build the documentation in Japanese.
 
 
 
-*Reference:*
+*Reference*
 
 - https://docs.readthedocs.io/en/stable/guides/manage-translations.html
 - https://docs.readthedocs.io/en/stable/localization.html
 - https://www.icanlocalize.com/site/tutorials/how-to-translate-with-gettext-po-and-pot-files/
 - https://www.drupal.org/node/1814954
 
+
+.. include:: comment.rst

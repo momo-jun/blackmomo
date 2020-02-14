@@ -32,6 +32,10 @@ release = '01'
 # ones.
 extensions = ['sphinx.ext.autodoc']
 
+extensions = ['sphinxcontrib.disqus']
+
+disqus_shortname = 'blackmomo'
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 

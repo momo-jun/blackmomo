@@ -25,3 +25,5 @@ The current branch I'm working on is named **stable**.
 
 #. Run ``$ git checkout master`` to switch to the master branch.
 #. Run ``$ git merge stable``.
+
+.. include:: comment.rst

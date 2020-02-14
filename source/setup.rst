@@ -51,3 +51,4 @@ Steps
 #. Build and View in Read the Docs.
 
 
+.. include:: comment.rst

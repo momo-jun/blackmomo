@@ -6,10 +6,6 @@ To-Do List
 
 
 
-Add Comment
-================
-Ref: https://robpol86.github.io/sphinxcontrib-disqus/
-
 
 
 
