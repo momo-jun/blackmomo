@@ -21,7 +21,7 @@ Day 1
 - Coffee
 
 .. image:: /_static/B1.jpg
-
+	:width: 400
 
 Day 2
 --------------
@@ -29,6 +29,7 @@ Day 2
 - Coffee
 
 .. image:: /_static/B2.jpg
+	:width: 400
 
 
 
@@ -50,6 +51,7 @@ Meal 1
 	- Green Pepper + Egg
 
 .. image:: /_static/L1.jpg
+	:width: 400
 
 
 Meal 2
@@ -59,6 +61,7 @@ Meal 2
 	- Spinach Soup
 
 .. image:: /_static/L2.jpg
+	:width: 400
 
 
 Meal 3
@@ -76,6 +79,7 @@ Meal 4
 	- Soup
 
 .. image:: /_static/L4.jpg
+	:width: 400
 
 
 Meal 5
@@ -86,6 +90,7 @@ Meal 5
 	- Mushroom Soup
 
 .. image:: /_static/L5.jpg
+	:width: 400
 
 
 Meal 6
@@ -96,6 +101,7 @@ Meal 6
 	- Egg
 
 .. image:: /_static/L6.jpg
+	:width: 400
 
 
 Meal 7
@@ -106,6 +112,7 @@ Meal 7
 	- Egg
 
 .. image:: /_static/L7.jpg
+	:width: 400
 
 
 

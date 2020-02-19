@@ -70,6 +70,12 @@ Insert an Image
 #. Place the **picture.jpg** file to the ``source/_static`` folder.
 #. Add ``.. image:: /_static/picture.jpg`` in the rst file.
 
+.. tip:: To limit the width of your image, add the **width** parameter and assign a value ``:width: 400``.
+
+.. tip:: If you need to insert an image multiple times, you can define it like ``.. |Name| image:: /_static/picture.jpg`` and apply it by using ``|Name|`` anywhere.
+
+
+
 
 
 Add the Comment Function Using Disqus
